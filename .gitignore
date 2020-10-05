@@ -1,0 +1,12 @@
+.idea
+target
+annoy-index-*
+test.ann
+*.elapsed.log
+exp
+.DS_Store
+.settings
+.project
+.classpath
+.cache-main
+*.iml
